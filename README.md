@@ -18,6 +18,7 @@ This GitHub repository demonstrates the creation and training of a Logistic Regr
 
 ## About the Dataset
 Dataset link: `https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews`
+
 The dataset used for training and testing contains customer reviews and a binary indicator of whether they liked the food or not. This dataset serves as a valuable resource for sentiment analysis and natural language processing tasks.
 
 ## Usage
