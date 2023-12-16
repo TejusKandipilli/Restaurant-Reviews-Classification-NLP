@@ -17,7 +17,7 @@ This GitHub repository demonstrates the creation and training of a Logistic Regr
 6. **Integration with GUI Application:** The trained model is integrated into a GUI application. Users can input text, and the application sends it to the model for sentiment analysis, producing a prediction whether the entered text represents a positive or negative review.
 
 ## About the Dataset
-
+Dataset link: `https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews`
 The dataset used for training and testing contains customer reviews and a binary indicator of whether they liked the food or not. This dataset serves as a valuable resource for sentiment analysis and natural language processing tasks.
 
 ## Usage
